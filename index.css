@@ -14,3 +14,6 @@ body {
     align-items: start;
     width: 95%;
 }
+.text {
+    margin: 4px 20px;
+}
