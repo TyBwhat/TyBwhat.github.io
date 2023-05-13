@@ -13,6 +13,7 @@ body {
     justify-content: flex-end;
     align-items: start;
     width: 95%;
+    margin: 30px 0px;
 }
 .text {
     margin: 4px 50px;
