@@ -11,6 +11,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-items: start;
     width: 95%;
 }
