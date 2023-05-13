@@ -1,6 +1,6 @@
 body {
-    background-color: Green;
-    color: aquamarine
+    background-color: Black;
+    color: White;
 }
 .column {
     display: flex;
@@ -16,4 +16,9 @@ body {
 }
 .text {
     margin: 4px 20px;
+
+}
+
+h1 {
+    color: rgb(0, 255, 0)
 }
