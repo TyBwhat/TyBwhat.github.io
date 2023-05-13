@@ -23,3 +23,8 @@ h1 {
     color: rgb(0, 255, 0);
     font-family:systen-ui;
 }
+
+a:link { color:aqua; }
+a:visited { color:lightskyblue; }
+a:hover { color:yellow; }
+a:active { color:yellowgreen; }
