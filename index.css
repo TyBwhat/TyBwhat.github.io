@@ -29,3 +29,7 @@ a:link { color:aqua; }
 a:visited { color:lightskyblue; }
 a:hover { color:yellow; }
 a:active { color:yellowgreen; }
+hr1 {
+    border-top: 6px solid white;
+    width: 100%;
+}
