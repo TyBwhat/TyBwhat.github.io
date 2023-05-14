@@ -1,6 +1,6 @@
 body {
-    background-color: Black;
-    color: White;
+    background-color: white;
+    color: BLACK;
 }
 .column {
     display: flex;
@@ -30,6 +30,6 @@ a:visited { color:lightskyblue; }
 a:hover { color:yellow; }
 a:active { color:yellowgreen; }
 hr {
-    border-top: 6px solid white;
+    border-top: 6px solid black;
     width: 100%;
 }
